@@ -6,6 +6,39 @@ __pycache__/
 # C extensions
 *.so
 
+# LaTeX auxiliary files
+*.aux
+*.log
+*.dvi
+*.ps
+*.toc
+*.lof
+*.lot
+*.bbl
+*.blg
+*.idx
+*.ind
+*.ilg
+*.out
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+*.nav
+*.snm
+*.vrb
+*.glg
+*.glo
+*.gls
+*.acn
+*.acr
+*.alg
+*.ist
+*.maf
+*.mtc
+*.mtc1
+
+Project Progress Report Instructions.pdf
+
 # Distribution / packaging
 .Python
 build/
